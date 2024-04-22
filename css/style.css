@@ -1,0 +1,49 @@
+.Inicio {
+	background-color: white;
+	margin: auto;
+	width: 1200px;
+	height: 240px;
+	padding: 10px;
+	border-radius: 10px 10px;
+	padding-bottom: 18%;
+
+}
+table td {
+
+	align: center;
+	background-color: #b5bac9;
+	padding: 12px;
+	border-radius: 5px 5px;
+
+}
+table tr {
+
+	background-color: 0,0,0,0;
+
+}
+table td:hover{
+	cursor: pointer;
+	background: #a3a8b7 ;
+}
+.console  {
+	width: 200px;
+	height: 200px;
+}
+.marcs {
+	width: 350px;
+	height: 100px;
+}
+table {
+
+	align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+ .Acceder {
+ 	background-color: #84b6f4;
+ 	border: none;
+ 	color: black;
+ 	padding: 15px 32px;
+ 	text-decoration: none;
+ 	border-radius: 5px 5px;
+ }

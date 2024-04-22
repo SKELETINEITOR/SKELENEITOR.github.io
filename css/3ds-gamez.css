@@ -1,0 +1,61 @@
+.texto  {
+	background-color: white;
+	border-radius: 10px 10px;
+	/*top: 50%;
+	left: 50%;*/
+
+
+	display: grid;
+	place-items: center;
+
+	margin: 2%;
+	color: black;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.texto img {
+
+	padding-top: 10px;
+	padding-bottom: 5px;
+	width: 30%;
+	height: 100%;
+	
+	min-height: 50%;
+	min-width: 50%;
+
+
+}
+
+.texto h1, h2 {
+
+	text-decoration: underline;
+}
+
+.texto section {
+
+
+
+	background-color: #666f88;
+	border-radius: 10px 10px;
+	margin: 1%;
+	padding: 1%;
+	color: white;
+}
+
+.texto section li {
+
+	list-style: none;
+}
+
+.imgrefer img {
+	border-radius: 20px 20px;
+	height: 300px;
+	width: 300px;
+	padding: 10px;
+}
+
+.texto a img {
+	width: 30%;
+	height: 30%;
+}

@@ -1,0 +1,46 @@
+.contendor-flexbox {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around; 
+	position: relative;
+	background-color: white;
+	width: 90%;
+	height: 90%;
+	margin: auto;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-radius: 10px 10px;
+
+}
+
+.contendor-flexbox a {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	width: 200px;
+	height: 250px;
+	border: 1px solid #ccc;
+	padding: 10px;
+	margin: 10px;
+	text-decoration: none;
+	color: black;
+	border-radius: 15%;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 5);
+}
+
+.contendor-flexbox a img {
+	width: 100%;
+	height: 100%;
+	width: 100%;
+	border-radius: 15%; 
+
+}
+
+.contendor-flexbox a h3 {
+	margin: 0;
+	padding: 0;
+	color: black;
+}
